@@ -4,7 +4,7 @@ Bu proje, Java ve Apache PDFBox kütüphanesi kullanılarak oluşturulmuş basit
 Kullanıcı bilgilerini, profil fotoğrafını ve iş deneyimlerini alarak profesyonel bir özgeçmiş dosyası (Emre_Celik_Ozgecmis.pdf) üretir.
 
 ## Özellikler
--PDF dosyası oluşturma
+- PDF dosyası oluşturma
 - Metin ve başlık yazdırma
 - Profil fotoğrafı ekleme
 - Türkçe karakter desteği (Unicode font)
